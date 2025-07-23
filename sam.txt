@@ -1,2 +1,2 @@
-rThis is new text file
+This is new text file
 Adding new feature <button>
